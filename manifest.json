@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "DeepSeek Thread Sync Tool",
+  "version": "1.0",
+  "description": "Extracts locked DeepSeek conversations into structured layout sheets.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
